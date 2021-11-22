@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "s1_transferring_ownership_o
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "s1_useful_operations_on_thread", "s1_useful_operations_on_thread\s1_useful_operations_on_thread.vcxproj", "{9E027A4E-17D8-4A9D-91F1-0BFEBD2BEBB0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "s1_parallel_accumulate_algorithm_explanation", "s1_parallel_accumulate_algorithm_explanation\s1_parallel_accumulate_algorithm_explanation.vcxproj", "{F63AA0A9-AA2F-43FB-90B6-4F15E631CBBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{9E027A4E-17D8-4A9D-91F1-0BFEBD2BEBB0}.Release|x64.Build.0 = Release|x64
 		{9E027A4E-17D8-4A9D-91F1-0BFEBD2BEBB0}.Release|x86.ActiveCfg = Release|Win32
 		{9E027A4E-17D8-4A9D-91F1-0BFEBD2BEBB0}.Release|x86.Build.0 = Release|Win32
+		{F63AA0A9-AA2F-43FB-90B6-4F15E631CBBD}.Debug|x64.ActiveCfg = Debug|x64
+		{F63AA0A9-AA2F-43FB-90B6-4F15E631CBBD}.Debug|x64.Build.0 = Debug|x64
+		{F63AA0A9-AA2F-43FB-90B6-4F15E631CBBD}.Debug|x86.ActiveCfg = Debug|Win32
+		{F63AA0A9-AA2F-43FB-90B6-4F15E631CBBD}.Debug|x86.Build.0 = Debug|Win32
+		{F63AA0A9-AA2F-43FB-90B6-4F15E631CBBD}.Release|x64.ActiveCfg = Release|x64
+		{F63AA0A9-AA2F-43FB-90B6-4F15E631CBBD}.Release|x64.Build.0 = Release|x64
+		{F63AA0A9-AA2F-43FB-90B6-4F15E631CBBD}.Release|x86.ActiveCfg = Release|Win32
+		{F63AA0A9-AA2F-43FB-90B6-4F15E631CBBD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

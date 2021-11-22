@@ -39,8 +39,6 @@ void run() {
 	int allowed_threads = std::thread::hardware_concurrency();
 	std::cout << "Allowed thread count in my divide : " << 
 		allowed_threads << std::endl;
-
 	// use this hardware concurrency function extensively to query 
 	// the number of allowed parallel
-
 }

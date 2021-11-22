@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\udemy\ConcurrencyInDepth\Concurrency\ConcurrencyInDepth\Concurrency\s1_parallel_accumulate_algorithm_explanation\Source.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  s1_parallel_accumulate_algorithm_explanation.vcxproj -> D:\udemy\ConcurrencyInDepth\Concurrency\ConcurrencyInDepth\Concurrency\Debug\s1_parallel_accumulate_algorithm_explanation.exe
