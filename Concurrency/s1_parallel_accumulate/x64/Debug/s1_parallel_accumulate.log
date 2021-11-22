@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\udemy\ConcurrencyInDepth\Concurrency\ConcurrencyInDepth\Concurrency\s1_parallel_accumulate\parallel_accumulate.h(17,20): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+D:\udemy\ConcurrencyInDepth\Concurrency\ConcurrencyInDepth\Concurrency\s1_parallel_accumulate\Source.cpp(13): message : see reference to function template instantiation 'void parallel_accumulate<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,int>(iterator,iterator,T &)' being compiled
+          with
+          [
+              _Ty=int,
+              iterator=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>,
+              T=int
+          ]
+  s1_parallel_accumulate.vcxproj -> D:\udemy\ConcurrencyInDepth\Concurrency\ConcurrencyInDepth\Concurrency\x64\Debug\s1_parallel_accumulate.exe

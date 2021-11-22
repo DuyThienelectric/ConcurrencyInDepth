@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\udemy\ConcurrencyInDepth\Concurrency\ConcurrencyInDepth\Concurrency\s1_transferring_ownership_of_a_thread\Source.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  s1_transferring_ownership_of_a_thread.vcxproj -> D:\udemy\ConcurrencyInDepth\Concurrency\ConcurrencyInDepth\Concurrency\Debug\s1_transferring_ownership_of_a_thread.exe
