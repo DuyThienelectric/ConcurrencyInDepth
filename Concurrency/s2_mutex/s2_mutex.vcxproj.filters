@@ -23,5 +23,8 @@
     <ClInclude Include="s2_protecting_shared_data_with_mutex.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="s2_protecting_shared_data_with_lock_guard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
