@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "s1_thread_local_storage", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "s2_mutex", "s2_mutex\s2_mutex.vcxproj", "{8B4650C6-391A-44A3-8512-46EF5603D005}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "s2_mutex_problem", "s2_mutex_problem\s2_mutex_problem.vcxproj", "{45CCF26F-10AA-410D-B9FC-73149FCA77C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{8B4650C6-391A-44A3-8512-46EF5603D005}.Release|x64.Build.0 = Release|x64
 		{8B4650C6-391A-44A3-8512-46EF5603D005}.Release|x86.ActiveCfg = Release|Win32
 		{8B4650C6-391A-44A3-8512-46EF5603D005}.Release|x86.Build.0 = Release|Win32
+		{45CCF26F-10AA-410D-B9FC-73149FCA77C6}.Debug|x64.ActiveCfg = Debug|x64
+		{45CCF26F-10AA-410D-B9FC-73149FCA77C6}.Debug|x64.Build.0 = Debug|x64
+		{45CCF26F-10AA-410D-B9FC-73149FCA77C6}.Debug|x86.ActiveCfg = Debug|Win32
+		{45CCF26F-10AA-410D-B9FC-73149FCA77C6}.Debug|x86.Build.0 = Debug|Win32
+		{45CCF26F-10AA-410D-B9FC-73149FCA77C6}.Release|x64.ActiveCfg = Release|x64
+		{45CCF26F-10AA-410D-B9FC-73149FCA77C6}.Release|x64.Build.0 = Release|x64
+		{45CCF26F-10AA-410D-B9FC-73149FCA77C6}.Release|x86.ActiveCfg = Release|Win32
+		{45CCF26F-10AA-410D-B9FC-73149FCA77C6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
