@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\udemy\ConcurrencyInDepth\Concurrency\ConcurrencyInDepth\Concurrency\s2_unique_locks\s2_unique_locks_bank_account.h(16,14): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\udemy\ConcurrencyInDepth\Concurrency\ConcurrencyInDepth\Concurrency\s2_unique_locks\s2_unique_locks_bank_account.h(17,45): warning C4227: anachronism used: qualifiers on reference are ignored
+  s2_unique_locks.vcxproj -> D:\udemy\ConcurrencyInDepth\Concurrency\ConcurrencyInDepth\Concurrency\Debug\s2_unique_locks.exe

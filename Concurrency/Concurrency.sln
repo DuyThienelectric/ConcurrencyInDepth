@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "s2_thread_safe_stack_implem
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "s2_Dead_locks", "s2_Dead_locks\s2_Dead_locks.vcxproj", "{C8324CE9-1C4B-4874-805E-038AA24F3F8B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "s2_unique_locks", "s2_unique_locks\s2_unique_locks.vcxproj", "{C80ACFD2-89AA-4FBB-8E8E-30DB81D32944}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{C8324CE9-1C4B-4874-805E-038AA24F3F8B}.Release|x64.Build.0 = Release|x64
 		{C8324CE9-1C4B-4874-805E-038AA24F3F8B}.Release|x86.ActiveCfg = Release|Win32
 		{C8324CE9-1C4B-4874-805E-038AA24F3F8B}.Release|x86.Build.0 = Release|Win32
+		{C80ACFD2-89AA-4FBB-8E8E-30DB81D32944}.Debug|x64.ActiveCfg = Debug|x64
+		{C80ACFD2-89AA-4FBB-8E8E-30DB81D32944}.Debug|x64.Build.0 = Debug|x64
+		{C80ACFD2-89AA-4FBB-8E8E-30DB81D32944}.Debug|x86.ActiveCfg = Debug|Win32
+		{C80ACFD2-89AA-4FBB-8E8E-30DB81D32944}.Debug|x86.Build.0 = Debug|Win32
+		{C80ACFD2-89AA-4FBB-8E8E-30DB81D32944}.Release|x64.ActiveCfg = Release|x64
+		{C80ACFD2-89AA-4FBB-8E8E-30DB81D32944}.Release|x64.Build.0 = Release|x64
+		{C80ACFD2-89AA-4FBB-8E8E-30DB81D32944}.Release|x86.ActiveCfg = Release|Win32
+		{C80ACFD2-89AA-4FBB-8E8E-30DB81D32944}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
