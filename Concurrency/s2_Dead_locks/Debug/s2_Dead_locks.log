@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\udemy\ConcurrencyInDepth\Concurrency\ConcurrencyInDepth\Concurrency\s2_Dead_locks\s2_Dead_locks_bank_account.h(17,14): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\udemy\ConcurrencyInDepth\Concurrency\ConcurrencyInDepth\Concurrency\s2_Dead_locks\s2_Dead_locks_bank_account.h(18,45): warning C4227: anachronism used: qualifiers on reference are ignored
+  s2_Dead_locks.vcxproj -> D:\udemy\ConcurrencyInDepth\Concurrency\ConcurrencyInDepth\Concurrency\Debug\s2_Dead_locks.exe

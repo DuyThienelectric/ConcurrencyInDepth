@@ -1,2 +1,10 @@
 ﻿  main.cpp
-  s2_mutex.vcxproj -> D:\udemy\ConcurrencyInDepth\Concurrency\ConcurrencyInDepth\Concurrency\Debug\s2_mutex.exe
+D:\udemy\ConcurrencyInDepth\Concurrency\ConcurrencyInDepth\Concurrency\s2_mutex\main.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\udemy\ConcurrencyInDepth\Concurrency\ConcurrencyInDepth\Concurrency\s2_mutex\s2_protecting_shared_data_with_lock_guard.h(8,16): error C2086: 'std::list<int,std::allocator<int>> list': redefinition
+D:\udemy\ConcurrencyInDepth\Concurrency\ConcurrencyInDepth\Concurrency\s2_mutex\s2_protecting_shared_data_with_mutex.h(8): message : see declaration of 'list'
+D:\udemy\ConcurrencyInDepth\Concurrency\ConcurrencyInDepth\Concurrency\s2_mutex\s2_protecting_shared_data_with_lock_guard.h(9,12): error C2086: 'std::mutex m': redefinition
+D:\udemy\ConcurrencyInDepth\Concurrency\ConcurrencyInDepth\Concurrency\s2_mutex\s2_protecting_shared_data_with_mutex.h(9): message : see declaration of 'm'
+D:\udemy\ConcurrencyInDepth\Concurrency\ConcurrencyInDepth\Concurrency\s2_mutex\s2_protecting_shared_data_with_lock_guard.h(11,6): error C2084: function 'void add_to_list(const int &)' already has a body
+D:\udemy\ConcurrencyInDepth\Concurrency\ConcurrencyInDepth\Concurrency\s2_mutex\s2_protecting_shared_data_with_mutex.h(11): message : see previous definition of 'add_to_list'
+D:\udemy\ConcurrencyInDepth\Concurrency\ConcurrencyInDepth\Concurrency\s2_mutex\s2_protecting_shared_data_with_lock_guard.h(16,6): error C2084: function 'void size(void)' already has a body
+D:\udemy\ConcurrencyInDepth\Concurrency\ConcurrencyInDepth\Concurrency\s2_mutex\s2_protecting_shared_data_with_mutex.h(17): message : see previous definition of 'size'
